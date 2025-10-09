@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Ismail-issa/Vulnerability-Management-Program-Implementation)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[DISA-STIG IMPLEMENTATION (PowerShell) ](https://github.com/Ismail-issa/DISA-STIG-IMPLEMENTATIONS)**
 
 ## 🚨 Threat Hunting and Security Operations
 
